@@ -1,7 +1,0 @@
-# Salesforce / local tooling
-.sfdx/
-.vscode/
-node_modules/
-.DS_Store
-*.log
-.env
